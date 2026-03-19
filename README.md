@@ -2,7 +2,7 @@ English: C1 (Ireland Experience)** Foco em desenvolvimento de software e automaÃ
 
 ---
 
-### ðŸ›  Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 
@@ -18,7 +18,7 @@ English: C1 (Ireland Experience)** Foco em desenvolvimento de software e automaÃ
 
 ---
 
-### ðŸš€ Featured Projects
+### Featured Projects
 
 - **[Giharad-RPG-Ficha](https://github.com/drsauce0101/rpg-ficha-app):** Sistema de fichas digitais para RPG de mesa utilizando **FastAPI** e **PostgreSQL**.
 
