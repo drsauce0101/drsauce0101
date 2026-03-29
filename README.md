@@ -43,7 +43,3 @@ Profissional focado no desenvolvimento de software e na automação de processos
     * Descrição: Aplicação full-stack de votação em tempo real.
     * Tecnologias: Python (Flask), JavaScript.
 
----
-
-### Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
