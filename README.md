@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Thiago</h1>
-  <p><b>Software Developer | Process Automation Specialist</b></p>
+  <p><b>Software Developer | Process Automation</b></p>
   <p><b>English: C1 (Ireland Experience)</b></p>
 </div>
 
